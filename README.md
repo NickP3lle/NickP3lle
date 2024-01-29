@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there, this is Nicolò Pellegrinelli aka NickP3lle 👋
+
+- I am a Computer Science student @University of Padua who loves listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
+
+- Exchange student @University of California, Santa Cruz
+
+- I am currently learning Cyber Security
+
+- I am currentrly working on FocusForge, a task manager that helps you organize your to do list
 
 <!--
 **NickP3lle/NickP3lle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
