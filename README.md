@@ -6,7 +6,7 @@
 
 - I am currently learning Cyber Security
 
-- I am currentrly working on FocusForge, a task manager that helps you organize your to do list
+- I am currently working on FocusForge, a task manager that helps you organize your to do list
 
 <!--
 **NickP3lle/NickP3lle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
