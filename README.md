@@ -2,7 +2,7 @@
 
 - I am a Computer Science student @University of Padua who loves listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
 
-- Ex exchange student @University of California, Santa Cruz
+- Ex exchange student @University of California, Santa Cruz in 2023
 
 - I am currently learning Cyber Security
 
