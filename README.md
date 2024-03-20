@@ -8,6 +8,8 @@
 
 - I am currently working on FocusForge, a task manager that helps you organize your to do list
 
+![NickP3lle's Stats](https://github-readme-stats.vercel.app/api?username=NickP3lle&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 <!--
 **NickP3lle/NickP3lle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
