@@ -10,10 +10,6 @@
 
 <hr>
 
-![NickP3lle's Stats](https://github-readme-stats.vercel.app/api?username=NickP3lle&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-<hr>
-
 Since I love listening to music, you can listen to some of my favorite songs too🥳:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wo6p87iyopbwj5vvuarc3bwno&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wo6p87iyopbwj5vvuarc3bwno&redirect=true)
@@ -31,4 +27,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![NickP3lle's Stats](https://github-readme-stats.vercel.app/api?username=NickP3lle&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 -->
