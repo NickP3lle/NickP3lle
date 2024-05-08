@@ -1,12 +1,12 @@
 # Hi there, this is Nicolò Pellegrinelli aka NickP3lle 👋
 
-- I am a Computer Science student @University of Padua who loves listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
+- I am a senior Computer Science student @University of Padua who loves listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
 
-- Exchange student @University of California, Santa Cruz in 2023
+- Exchange student @University of California Santa Cruz in 2023
 
-- I am currently learning Cyber Security
+- I am learning Cyber Security
 
-- I am currently working on FocusForge, a task manager that helps you organize your to do list
+- I am currently working as intern @Prorob SRL
 
 <hr>
 
@@ -14,7 +14,9 @@
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wo6p87iyopbwj5vvuarc3bwno&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=77fd72&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+Since I love listening to music, you can listen to some of my favorite songs too🥳:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wo6p87iyopbwj5vvuarc3bwno&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wo6p87iyopbwj5vvuarc3bwno&redirect=true)
 
 <!--
 **NickP3lle/NickP3lle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
