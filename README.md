@@ -10,7 +10,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,arduino,azure,bash,bootstrap,c,cs,cpp,cloudflare,css,docker,git,github,html,java,js,jquery,linux,md,materialui,neovim,php,postman,py,qt,react,ubuntu,vscode&perline=14)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,bash,c,cs,cpp,docker,git,github,java,js,linux,md,php,postman,py,react,ubuntu&perline=18)](https://skillicons.dev)
 
 <hr>
 
