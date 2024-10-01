@@ -1,10 +1,12 @@
 # Hi there, this is Nicolò Pellegrinelli aka NickP3lle 👋
 
-- 🤖 I am a senior Computer Science student @University of Padua who loves listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
+- 🤖 I'm a Master's student in International Cybersecurity and Cyberintelligence @ [Arqus](https://arqus-alliance.eu/study-in-arqus/joint-masters-programmes/master-in-cybersecurity-cyberintelligence/)
 
 - ✈️ Exchange student @University of California Santa Cruz in 2023
 
-- ✨ I am learning Cyber Security
+- ✨ Focused on my personal growth and skills
+
+- ❤️ I love listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
 
 - 👨🏻‍💻 I am currently working as intern @Prorob SRL
 
