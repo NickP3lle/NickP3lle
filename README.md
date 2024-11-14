@@ -8,7 +8,7 @@
 
 - ❤️ I love listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
 
-- 👨🏻‍💻 I am currently working as intern @Prorob SRL
+- 👨🏻‍💻 When I'm free I work as freelancer at @Quindi
 
 <hr>
 
