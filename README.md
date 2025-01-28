@@ -2,13 +2,13 @@
 
 - 🤖 I'm a Master's student in International Cybersecurity and Cyberintelligence @ [Arqus](https://arqus-alliance.eu/study-in-arqus/joint-masters-programmes/master-in-cybersecurity-cyberintelligence/)
 
-- ✈️ Exchange student @University of California Santa Cruz in 2023
+- ✈️ Exchange student @ [University of California Santa Cruz](https://www.ucsc.edu/) in 2023
 
 - ✨ Focused on my personal growth and skills
 
 - ❤️ I love listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
 
-- 👨🏻‍💻 When I'm free I work as freelancer at @Quindi
+- 👨🏻‍💻 When I'm free I work as freelancer at @ [Quindi](https://www.quindi.ai/)
 
 <hr>
 
