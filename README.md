@@ -16,7 +16,7 @@
 
 <hr>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/NickP3lle.png)](https://tryhackme.com)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/NickP3lle.png)](https://tryhackme.com/p/NickP3lle)
 
 <hr>
 
