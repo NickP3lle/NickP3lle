@@ -12,7 +12,7 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,arduino,bash,c,cs,cpp,docker,git,github,java,js,linux,md,php,postman,py,react,ubuntu&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,bash,c,cs,cpp,docker,git,js,kali,linux,md,postman,perl,py,raspberrypi&perline=18)](https://skillicons.dev)
 
 <hr>
 
