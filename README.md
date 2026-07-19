@@ -1,20 +1,18 @@
 # Hi there, this is Nicolò Pellegrinelli aka NickP3lle 👋
 
-- 🤖 I'm a Master's student in International Cybersecurity and Cyberintelligence @ [Arqus](https://arqus-alliance.eu/study-in-arqus/joint-masters-programmes/master-in-cybersecurity-cyberintelligence/)
+- 🤖 MSc in International Cybersecurity and Cyberintelligence @ [Arqus](https://arqus-alliance.eu/study-in-arqus/joint-masters-programmes/master-in-cybersecurity-cyberintelligence/)
 
-- 🕷️ Malware & Threat Intelligence Intern @ [Constella Intelligence](https://constella.ai/)
-
-- I like Malware Analysis and Red Teaming 🔴
+- 🔴 I like Malware Analysis and Red Teaming
 
 - ✈️ Exchange student @ [University of California Santa Cruz](https://www.ucsc.edu/) in 2023
 
 - ❤️ I love listening to music 🎶, Formula 1 🏎️, travelling ✈️ and meeting new people!
 
-- 👨🏻‍💻 In progress: setting up a homelab with Proxmox for mini projects and learning 🎓
+- 👨🏻‍💻 Working on a homelab with Proxmox for mini projects and learning 🎓
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=apple,arduino,bash,c,cs,cpp,docker,git,js,kali,linux,md,postman,perl,py,raspberrypi&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,arduino,bash,c,cs,cpp,docker,git,kali,linux,perl,py,raspberrypi,windows)](https://skillicons.dev)
 
 <hr>
 
@@ -29,7 +27,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![NickP3lle's Stats](https://github-readme-stats.vercel.app/api?username=NickP3lle&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
 -->
