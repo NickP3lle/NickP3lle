@@ -10,13 +10,11 @@
 
 - 👨🏻‍💻 Working on a homelab with Proxmox for mini projects and learning 🎓
 
+- ⚡ Fun fact: I just started a blog! You can find it at [nickpelle.dev](https://nickpelle.dev/blog)
+
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=apple,arduino,bash,c,cs,cpp,docker,git,kali,linux,perl,py,raspberrypi,windows)](https://skillicons.dev)
-
-<hr>
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/NickP3lle.png)](https://tryhackme.com/p/NickP3lle)
 
 <!--
 - 🔭 I’m currently working on ...
